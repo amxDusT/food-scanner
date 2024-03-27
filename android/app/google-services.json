@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53819405036",
+    "project_id": "yuka-clone-ba712",
+    "storage_bucket": "yuka-clone-ba712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53819405036:android:c3c1cba482cefbdd5aebc9",
+        "android_client_info": {
+          "package_name": "com.example.yuka_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6QxEdNk7IGbvmpzeANELD_ifISukBouE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
